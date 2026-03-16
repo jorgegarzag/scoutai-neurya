@@ -1,0 +1,9 @@
+{
+  "name": "scoutai-neurya",
+  "version": "1.0.0",
+  "description": "ScoutAI by Neurya — Sistema de Reclutamiento de Fútbol",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
